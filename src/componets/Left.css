@@ -1,0 +1,27 @@
+.left{
+    margin: 0px;
+    padding: 0px !important;
+    border-right: 1px solid #000 !important;
+}
+
+.left-header{
+    border:0px;
+    border-bottom:1px;
+    border-color: black !important;
+    border-style:solid;
+    
+}
+
+.head{
+    border:0px;
+
+    border-top:1px !important;
+  
+    border-bottom:1px;
+    border-color: black !important;
+    border-style:solid;
+}
+
+.head h4{
+    margin-left:15px;
+}

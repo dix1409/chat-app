@@ -1,0 +1,35 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+ /* #ff6036;
+    #fd267a;
+    #ff4458;
+    #d6002f; */
+
+
+.Login{
+    width:"100%";
+    height: "100%";
+    
+    /* background-image: url("https://tinder.com/static/build/8ad4e4299ef5e377d2ef00ba5c94c44c.jpg"), linear-gradient(to right, #6DB3F2, #6DB3F2); */
+    background-size: cover;
+    background-position:center;
+    
+    /* background-color: #ff6036; */
+
+}
+.btn{
+   /* background-color:  ; */
+   color:#fff;
+   width: 60% !important;
+   border-color: gray !important;
+   border-radius: 40px !important;
+   /* padding: 5px !important; */
+   overflow:  hidden !important;
+}
+
+.image{
+    
+    height:40px;
+}
